@@ -6,4 +6,4 @@
 
 (declare-source
   :prefix "jtime"
-  :source ["src/init.janet"])
+  :source ["jtime/init.janet"])
